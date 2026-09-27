@@ -496,16 +496,6 @@ Potential next steps include:
 
 ---
 
-## Author
-
-**Youssef Atef Tayh**
-
-Computer Science and Information Technology
-
-Data Analytics | Data Science | AI
-
----
-
 ## Note
 
 This repository is an analytical and educational project based on the public Olist Brazilian E-Commerce dataset.
